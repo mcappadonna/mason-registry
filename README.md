@@ -13,3 +13,11 @@
 Refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 Compiled registry contents are available via [releases](https://github.com/mason-org/mason-registry/releases).
+
+---
+
+# Additional packages
+
+- ansible-29-lint: Ansible linter for older versions (2.9.x). Please refer to relative
+[README](packages/ansible-29-lint/README.md)
+
